@@ -1,2 +1,3 @@
 # typing-speed
-react based
+Learn and practice typing app | react 
+https://mak-typing-speed.netlify.app/
